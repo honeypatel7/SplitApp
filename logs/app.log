@@ -1,0 +1,89 @@
+2025-07-11T16:45:01.081Z | INFO   | Server started in PORT | 3001
+2025-07-11T16:45:01.148Z | INFO   | DB Connection Established
+2025-07-11T16:50:46.489Z | INFO   | API HIT : [POST] /api/users/v1/login | {"emailId":"honeypatel381@gmail.com","password":"12345678","remember":true}
+2025-07-11T16:50:47.289Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:50:47.332Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:50:51.392Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:50:51.399Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:50:51.410Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:50:51.415Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:50:51.423Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:50:51.700Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:53:23.332Z | INFO   | Server started in PORT | 3001
+2025-07-11T16:53:23.383Z | INFO   | DB Connection Established
+2025-07-11T16:53:56.377Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:53:56.454Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:53:56.568Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:53:56.894Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:53:56.903Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:53:56.908Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:53:56.914Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:53:57.039Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:54:23.275Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:57:10.868Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:57:11.120Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:57:11.185Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:57:11.457Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:57:11.459Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:57:11.462Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:57:11.463Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:57:11.473Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:58:28.573Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:58:28.596Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:58:28.637Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:58:28.948Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:58:28.950Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:58:28.951Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"honeypatel381@gmail.com"}
+2025-07-11T16:58:28.953Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T16:58:28.973Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:04:42.042Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:04:42.075Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:04:42.130Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:04:42.436Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:04:42.437Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:04:42.439Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:04:42.451Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:04:42.496Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:08:06.833Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:08:06.863Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:08:07.181Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:08:07.188Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:08:07.227Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:08:07.228Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:08:07.231Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:08:07.238Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:09:14.438Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:09:14.471Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:09:14.796Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:09:14.798Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:09:14.844Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:09:14.845Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:09:14.848Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:09:14.850Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:11:40.734Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:11:40.763Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:11:41.126Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:11:41.128Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:11:41.130Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:11:41.132Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:11:41.134Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:11:41.158Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:40.297Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:40.328Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:12:40.689Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:12:40.691Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:40.692Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:40.694Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:40.697Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:12:40.720Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:45.580Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:45.597Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:12:45.941Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:12:45.943Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:45.944Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:45.947Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:45.951Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:12:46.185Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"honeypatel381@gmail.com"}
+2025-07-11T17:12:47.641Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2025-07-11T17:12:49.713Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"6868d61d91c4149fc6620260","emailId":"honeypatel381@gmail.com","firstName":"honey","lastName":"patel","accessToken":"eyJhbGciOiJIUzI1NiJ9.aG9uZXlwYXRlbDM4MUBnbWFpbC5jb20.ymZNZJB0OOKj5joDMSaO7-PDIAwH_A2WwL58WpazIOQ"}
+2025-07-11T17:12:51.098Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
